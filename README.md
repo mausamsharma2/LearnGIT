@@ -20,3 +20,5 @@ git checkout -b <-branch name-> : creates and switch to new branch
 get checkout -d <-branch name-> : deletes the named branch
 
 (Branch: git creates a copy to the same code for you to add some changes in the branch and not let you effect the original branch)
+
+git push origin feature1(or any branch name you are pushing will be pushed in the directory)
